@@ -1,0 +1,4 @@
+Minimul este: 2
+Maximul este: 8
+Avg: 4.5
+Sum: 27.0
