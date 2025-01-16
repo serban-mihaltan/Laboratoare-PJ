@@ -1,0 +1,51 @@
+[
+  {
+    "nume": "Sebastian",
+    "postul": "angajat",
+    "data_angajarii": "2020-01-01",
+    "salariu":2500
+
+  },
+  {
+    "nume": "Maria",
+    "postul": "sef",
+    "data_angajarii": "2018-12-01",
+    "salariu":6000
+
+  },
+  {
+    "nume": "Adrian",
+    "postul": "director",
+    "data_angajarii": "2004-04-04",
+    "salariu":4500
+
+  },
+  {
+    "nume": "Ana",
+    "postul": "sef",
+    "data_angajarii": "2022-09-01",
+    "salariu":7000
+
+  },
+  {
+    "nume": "Ariana",
+    "postul": "director",
+    "data_angajarii": "2015-07-09",
+    "salariu":4300
+
+  },
+  {
+    "nume": "Alexandru",
+    "postul": "angajat",
+    "data_angajarii": "2023-04-07",
+    "salariu":2500
+
+  },
+  {
+    "nume": "Nick",
+    "postul": "angajat",
+    "data_angajarii": "2001-01-02",
+    "salariu":2300
+
+  }
+]
